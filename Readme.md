@@ -9,3 +9,6 @@ HOTEL-ANGEL> symfony new GestionHotel --version="6.2.*" --webapp
 ```powershell
 HOTEL-ANGEL> composer require --dev symfony/maker-bundle
 ```
+
+- Creation de la base de donnée:
+sur phpMyAdmin on créer la table gestionhotel de interclassement : "utf8_general_ci"
