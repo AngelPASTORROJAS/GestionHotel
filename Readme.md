@@ -5,3 +5,7 @@
 ```powershell
 HOTEL-ANGEL> symfony new GestionHotel --version="6.2.*" --webapp
 ```
+- Installation du bundle
+```powershell
+HOTEL-ANGEL> composer require --dev symfony/maker-bundle
+```
